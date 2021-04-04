@@ -2,6 +2,7 @@
 ---
 rules to follow when contributing
 
+group doc files in folders by category
 
 ## Forking and PR
 ---
