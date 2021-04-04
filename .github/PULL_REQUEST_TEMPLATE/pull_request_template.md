@@ -1,3 +1,9 @@
-* describe what you have changed
+---
+name: New PR
+about: create a new pr
+---
 
-* reason of the change
+# Explain the changes
+* Name of pr
+* Details of change
+* purposes of change
