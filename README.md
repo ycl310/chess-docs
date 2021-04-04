@@ -9,3 +9,7 @@ needing contributors
 ## Contribute
 ---
 Read src/contribute.md for more information
+## More Info
+---
+This docs is intended to be included in one of my new projects which is not completed yet. Purpose is chess related, and I'm personally not an expert so I can't organize these alone, that's why I need contributors. Contributions are not paid as this is a open source project, though it is much appreciated and you'll be included in credits (as mentioned in src/contribute.md).
+Thanks
